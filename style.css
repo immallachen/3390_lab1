@@ -1,0 +1,35 @@
+.flex-container {
+    display: flex;
+    margin: 30px;
+    
+}
+
+.column {
+    width: 50%;
+    margin: 20px;
+}
+
+.image {
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+#content p {
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(60, 17, 117);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(246, 241, 253);
+    margin-top: 15px;
+    color: rgb(60, 17, 117);
+}
+
+a:hover {
+    color: rgb(71, 166, 255);
+}
+
+#title {
+    color: rgb(60, 17, 117);
+}
