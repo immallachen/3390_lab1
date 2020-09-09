@@ -36,6 +36,7 @@ a:hover {
 
 .button {
     background-color: rgb(60, 17, 117);
+    border: none;
 }
 
 .button:hover {
