@@ -33,3 +33,11 @@ a:hover {
 #title {
     color: rgb(60, 17, 117);
 }
+
+.button {
+    background-color: rgb(60, 17, 117);
+}
+
+.button:hover {
+    background-color: rgb(71, 166, 255);
+}
